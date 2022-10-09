@@ -1,0 +1,16 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "version": "1.15.2",
+    "libraryName": "gallery",
+    "libraryId": "57b88961-8e36-41a1-b819-e52aa91da76f",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "gallery",
+    "solutionShortDescription": "gallery description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
